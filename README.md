@@ -6,7 +6,7 @@ The code and paper will available after publication.
 ## 2 Dataset
 The datasets can be downloaded from the following links.
 
-Option 1: The proposed Drone Vision Fire dataset Download from given link: Click here
+Option 1: The proposed Drone Fire Vision dataset Download from given link: [here](#)
 
 Option 2: Download Foggia’s dataset from the given link: Click [here](https://mivia.unisa.it/datasets/video-analysis-datasets/fire-detection-dataset/)
 
