@@ -2,7 +2,7 @@
 
 
 ## 1 Paper Link 
-The code , Dataset and paper will available after publication.
+The code and Dataset will be publically available after acceptance of the paper.
 ## 2 Dataset
 The datasets can be downloaded from the following links.
 
